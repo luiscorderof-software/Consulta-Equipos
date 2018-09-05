@@ -1,0 +1,10 @@
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\bin\Debug\Consulta_Equipos.exe.config
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\bin\Debug\Consulta_Equipos.exe
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\bin\Debug\Consulta_Equipos.pdb
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.csprojAssemblyReference.cache
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.Form1.resources
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.Properties.Resources.resources
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.csproj.GenerateResource.cache
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.csproj.CoreCompileInputs.cache
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.exe
+F:\Desarrollo\VS-2017\Consulta_Equipos\Consulta_Equipos\obj\Debug\Consulta_Equipos.pdb
